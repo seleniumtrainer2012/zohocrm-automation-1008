@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12798" started-at="2019-08-10T06:15:02Z" finished-at="2019-08-10T06:15:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12798" started-at="2019-08-10T06:15:02Z" finished-at="2019-08-10T06:15:15Z">
+      <class name="com.zohocrm.testcases.CreateAccountTC">
+        <test-method status="PASS" signature="CreateAccountTestCase()[pri:0, instance:com.zohocrm.testcases.CreateAccountTC@482f8f11]" name="CreateAccountTestCase" duration-ms="11718" started-at="2019-08-10T11:45:02Z" finished-at="2019-08-10T11:45:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAccountTestCase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.zohocrm.testcases.CreateAccountTC@482f8f11]" name="tearDown" is-config="true" duration-ms="1064" started-at="2019-08-10T11:45:14Z" finished-at="2019-08-10T11:45:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.zohocrm.testcases.CreateAccountTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
